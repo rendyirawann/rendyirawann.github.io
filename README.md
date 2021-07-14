@@ -1,7 +1,7 @@
 # rendyirawann.github.io
 Website Product Mart Rendy Irawan
 Hi there 👋
-LINK LAUNCHER WEB URL COPY PASTE -> https://rendyirawann.github.io/webproductmartrendy/
+LINK LAUNCHER WEB URL COPY PASTE -> https://rendyirawann.github.io/
 
 <!--
 **rendyirawann/rendyirawann.github.io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
